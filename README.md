@@ -15,11 +15,11 @@ A full-featured Sudoku game built with SwiftUI, featuring multiple difficulty le
 ## Getting Started
 1. Clone the Repository:
    ```bash
-    git clone https://github.com/jaredcassoutt/chess_swiftui.git
-
+    git clone https://github.com/jaredcassoutt/sudoku_swiftui.git
+   ```
 2. Open the Project in Xcode:
     - Open Sudoku.xcodeproj in Xcode.
-    - Make sure you’re running Xcode 12 or later.
+    - Make sure you’re running Xcode 16 or later.
 3. Run the App:
     - Build and run on the simulator or an actual device.
     - Select a difficulty level and start solving puzzles!
